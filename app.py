@@ -1,6 +1,6 @@
 print("Starting application")
 
-x = 18
+x = 78
 y = 0
 
 print(x / y)  # This will cause ZeroDivisionError
